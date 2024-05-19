@@ -1,9 +1,7 @@
 # Data_Analysis_Project
 Financial data analysis: preprocess, visualize, calculate technical indicators.
 
-----
-Based on the code provided, I've created a README file outlining the analysis performed. Here it is:
-
+---
 ---
 
 # Data Analysis Project README
